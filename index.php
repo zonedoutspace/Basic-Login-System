@@ -23,7 +23,6 @@
         $user->getLogout($LOGINPAGE);
     }
 
-
 ?>
 <!DOCTYPE html>
 <html>
